@@ -1,4 +1,7 @@
+![Alt text](https://github.com/drona-gyawali/Employee-Data-Analysis/blob/main/illu_data_cleaning_blog_2-07.jpg)
+
 # Data Cleaning and Analysis Journey
+
 
 Recently, I embarked on an extensive data cleaning and analysis project revolving around a dataset of employees. This was not just about numbers but ensuring data reliability, usability, and insight generation. Here's an overview of the journey I took:
 
